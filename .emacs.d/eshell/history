@@ -1,0 +1,12 @@
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe --emacs
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe --cmd
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe --emacs
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe -console
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe -edit console
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe a.ss
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe a.ss "(+ 1 2)"
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe "(+ 1 2)"
+c:/Program\ Files\ \(x86\)/MIT-GNU\ Scheme/bin/mit-scheme.exe --fast a.ss
